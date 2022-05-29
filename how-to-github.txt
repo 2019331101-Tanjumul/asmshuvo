@@ -14,7 +14,7 @@ open git bash and then type
 command : git init 
 command : git add .
 command : git commit -m "Your message"
-command : git push origin master 
+command : git push origin main 
 
 //now type your user and password 
 
