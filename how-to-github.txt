@@ -1,0 +1,22 @@
+
+//avoid command : 
+
+//clone the repo from github
+command : git clone <link> 
+
+//Edit the file if you want to then 
+
+command : git status 
+
+//here we start, open your file (from the local and press right button to 
+open git bash and then type 
+
+command : git init 
+command : git add .
+command : git commit -m "Your message"
+command : git push origin master 
+
+//now type your user and password 
+
+//thanks 
+
